@@ -13,6 +13,7 @@
 		0D138E5F2B108B49006B30EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D138E5D2B108B49006B30EE /* Main.storyboard */; };
 		0D138E612B108B4A006B30EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D138E602B108B4A006B30EE /* Assets.xcassets */; };
 		0D138E642B108B4A006B30EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D138E622B108B4A006B30EE /* LaunchScreen.storyboard */; };
+		0D138E6C2B10A8B4006B30EE /* PlayfairDisplay-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D138E6B2B10A8B4006B30EE /* PlayfairDisplay-Italic-VariableFont_wght.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0D138E602B108B4A006B30EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D138E632B108B4A006B30EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D138E652B108B4A006B30EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D138E6B2B10A8B4006B30EE /* PlayfairDisplay-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0D138E562B108B49006B30EE /* Rabbit Music */ = {
 			isa = PBXGroup;
 			children = (
+				0D138E6B2B10A8B4006B30EE /* PlayfairDisplay-Italic-VariableFont_wght.ttf */,
 				0D138E572B108B49006B30EE /* AppDelegate.swift */,
 				0D138E592B108B49006B30EE /* SceneDelegate.swift */,
 				0D138E5B2B108B49006B30EE /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D138E6C2B10A8B4006B30EE /* PlayfairDisplay-Italic-VariableFont_wght.ttf in Resources */,
 				0D138E642B108B4A006B30EE /* LaunchScreen.storyboard in Resources */,
 				0D138E612B108B4A006B30EE /* Assets.xcassets in Resources */,
 				0D138E5F2B108B49006B30EE /* Main.storyboard in Resources */,
